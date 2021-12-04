@@ -1,0 +1,125 @@
+body{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pesquisa{
+   
+    display: flex;
+   width: 20%;
+}
+
+
+.nav{
+    background-color: gray;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.input-group{
+    width: 20%;
+    margin-left: 300px;
+}
+
+.menu1{
+    position: relative;
+   
+
+}
+
+.nav a{
+    color: white;
+}
+
+h1{
+    display: block;
+    padding: 10px;
+    font-size: 200%;
+}
+
+h2{
+    display: block;
+    font-size: 150%;
+}
+
+h3{
+    font-size: 120%;
+}
+
+.perfil img{
+    padding: 20px;
+}
+
+.experiência div{
+    padding: 30px;
+
+  
+}
+
+.projetos img{
+    padding:  20px;
+}
+.projetos h2{
+    padding: 20px;
+}
+
+
+.github{
+
+    background-color: gray;
+    font-size: 0.8;
+    padding: 0;
+}
+
+
+.github h1{
+    background-color: white;  
+    
+}
+
+.repoimg{
+    width: 20%;
+    height: 20%;
+}
+
+.grid_cor0{
+
+    margin: b;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+}
+
+footer{
+    background-color: lightgray;
+    padding: 40px;
+    
+}
+
+#menuToggle {
+    display: none;
+  }
+.menu-icon {
+    display: none;
+}
+
+@media screen and (max-width: 975px) {
+
+    .recomendações>.grid_cor0{
+
+      
+       padding-right: 100px;
+       padding-left: 0px;
+    
+
+    }
+
+
+    .input-group{
+        width: 10%;
+        align-self: center;
+        margin-left: 0px;
+    }
+
+    
+}
